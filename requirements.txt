@@ -1,0 +1,11 @@
+streamlit
+requests
+Pillow
+torch 
+diffusers 
+transformers 
+fastapi 
+uvicorn 
+nest_asyncio
+accelerate
+pyngrok
